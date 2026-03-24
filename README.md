@@ -18,10 +18,9 @@ Python | Flask | JavaScript | HTML | CSS | SQL | Git | OOP | Generative AI
 
 ---
 
-## 📫 Kontakt
-
-- [LinkedIn](#)  
-- [Xing](#)  
+## 📫 Kontakt 
+- [LinkedIn](https://www.linkedin.com/in/philipp-repke)
+- [XING](#)
 - ✉️ philipp_repke@gmx.de  
 
 > Ich suche Positionen als **Junior AI Engineer, Python Developer oder Generative AI Developer** ab August 2026.  
