@@ -1,4 +1,4 @@
-## Firstname | AI Engineer
+## Philipp Repke | AI Engineer
 
 👋 Hallo! Ich bin Philipp, angehender **AI Engineer** mit Fokus auf Python, Webentwicklung und Generative AI.
 Ich kombiniere technische Fähigkeiten mit Erfahrung im Business Development und kreativer Content-Erstellung.
