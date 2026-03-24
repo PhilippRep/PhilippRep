@@ -14,7 +14,7 @@ Python | Flask | JavaScript | HTML | CSS | SQL | Git | OOP | Generative AI
 ## 💻  Projekte
 
 - **Birthday Challenge Web App** - Interaktive Flask-Web-App mit Mini-Game Challenges.
-  [Portfolio ansehen](https://PhilippRep.github.io/portfolio)\
+  [Portfolio ansehen](https://PhilippRep.github.io/portfolio)
 
 ---
 
