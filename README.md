@@ -29,7 +29,8 @@ Python | Flask | JavaScript | HTML | CSS | SQL | Git | OOP | Generative AI
 - 💼 [XING](https://www.xing.com/profile/Philipp_Repke/)
 - ✉️ philipp_repke@gmx.de  
 
-> Verfügbar ab August 2026.  
+> Beruflich verfügbar ab August 2026.
+> 
 > **Let's work together!** ✨
 <!--
 
