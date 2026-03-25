@@ -3,6 +3,12 @@
 👋 Hallo! Ich bin Philipp, angehender **AI Engineer** mit Fokus auf Python, Webentwicklung und Generative AI.
 Ich kombiniere technische Fähigkeiten mit Erfahrung im Business Development und kreativer Content-Erstellung.
 
+Mein Weg in die Software- und KI-Entwicklung begann nicht klassisch,
+sondern über Technik, Business und Kreativität. In den letzten Jahren
+habe ich Projekte aufgebaut, Prozesse entwickelt und eng mit
+Softwarelösungen gearbeitet. Dabei entstand der Wunsch, selbst
+Anwendungen zu entwickeln und intelligente Systeme zu bauen
+
 ---
 
 ## 🔧  Skills
