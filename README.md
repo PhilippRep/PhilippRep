@@ -1,6 +1,6 @@
 ## Philipp Repke | AI Engineer
 
-👋 Hallo! Ich bin Philipp, angehender **AI Engineer** mit Fokus auf Python, Webentwicklung und Generative AI.
+👋 Hallo! Ich bin Philipp, angehender **Software / AI Engineer** mit Fokus auf Python, Webentwicklung und Generative AI.
 Ich kombiniere technische Fähigkeiten mit Erfahrung im Business Development und kreativer Content-Erstellung.
 
 Mein Weg in die Software- und KI-Entwicklung begann nicht klassisch,
